@@ -1,5 +1,8 @@
 Proyek ini adalah aplikasi web sederhana berbasis Laravel untuk mengelola data buku dan penulis.
 
+Nama : Vallery Pulungan
+NIM : 225150701111026
+
 proyek ini menggunakan :
 🔹 Laravel - Framework PHP untuk backend.
 🔹 MySQL - Database untuk menyimpan data buku dan penulis.
