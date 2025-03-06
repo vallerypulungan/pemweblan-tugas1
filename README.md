@@ -1,3 +1,21 @@
+Proyek ini adalah aplikasi web sederhana berbasis Laravel untuk mengelola data buku dan penulis.
+
+proyek ini menggunakan :
+🔹 Laravel - Framework PHP untuk backend.
+🔹 MySQL - Database untuk menyimpan data buku dan penulis.
+🔹 Bootstrap - Untuk tampilan yang responsif dan menarik.
+
+Gambar (sneak peek)
+
+![Screenshot (2228)](https://github.com/user-attachments/assets/c3969f47-e573-4324-8de0-ff7fb72ca5d8)
+
+![Screenshot (2227)](https://github.com/user-attachments/assets/94f3c502-8265-41dd-81e2-ceb5b6d25f60)
+
+![Screenshot (2226)](https://github.com/user-attachments/assets/7564ab64-4150-4fdc-9a9e-c2aaa5dce991)
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
